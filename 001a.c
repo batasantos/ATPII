@@ -24,7 +24,6 @@ int main()
 
     if( cm == 0){
         printf("S/n");
-    }else printf("N/n");
-
+    } else printf("N/n");
 
 }
